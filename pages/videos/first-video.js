@@ -10,8 +10,7 @@ export default function FirstPost() {
       </Head>
       {/* <h2 className={utilStyles.textCentered}>The main HTML learning resources</h2> */}
       <iframe
-          width="800"
-          height="452"
+          className={utilStyles.video}
           src="https://www.youtube.com/embed/ukmEEPynL6g"
         ></iframe>
     </Layout>

@@ -56,3 +56,8 @@
   .textCentered {
     text-align: center;
   }
+  
+  .video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }

@@ -25,8 +25,7 @@ export default function Home() {
         </p>
         <h3>Introductory video of my HTML for beginners course:</h3>
         <iframe
-          width="800"
-          height="452"
+          className={utilStyles.video}          
           src="https://www.youtube.com/embed/QIJWlGSCAz8"
         ></iframe>
       </section>
