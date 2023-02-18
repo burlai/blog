@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.textCentered}`}>
         <p>
-          Hello, I'm Konstantyn. I'm a frontend and web engineer working mostly
+          Hello, my name is Konstantyn Burlai. I'm a frontend and web engineer working mostly
           with React stack
         </p>
         <p>
